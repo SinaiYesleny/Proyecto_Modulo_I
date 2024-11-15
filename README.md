@@ -17,7 +17,7 @@ El tema de la página es concientizar a la población sobre la relación que tie
 Abrir el archivo index.html
 
 ## Información del autor
-Creado por [Sinaí Yesleny](https://github.com/SinaiYesleny).  Si te gustó el proyecto, ¡No dudes en contactarme! :)
+Creado por [@SinaiYesleny](https://github.com/SinaiYesleny).  Si te gustó el proyecto, ¡No dudes en contactarme! :)
 
 ## Créditos
-Este proyecto fue realizado con base en el Curso FrontEnd desarrollado por DEVF y el instructor @Mackaber
+Este proyecto fue realizado con base en el Bootcamp de FrontEnd desarrollado por DEVF y el instructor [@Mackaber](https://github.com/Mackaber)
