@@ -14,7 +14,8 @@ El tema de la página es concientizar a la población sobre la relación que tie
 - GitHub
 
 ## Instrucciones para ejecutar
-Abrir el archivo index.html
+- Abrir el archivo index.htmL
+- Puedes visitar mi página en el siguiente enlace:[Salud en México y su relación con alimentación](https://sinaiyesleny.github.io/Proyecto_Modulo_I/) 
 
 ## Información del autor
 Creado por [@SinaiYesleny](https://github.com/SinaiYesleny).  Si te gustó el proyecto, ¡No dudes en contactarme! :)
